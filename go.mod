@@ -1,4 +1,4 @@
-module example.com/go-demo-1
+module example.com/go-demo
 
 go 1.22.1
 

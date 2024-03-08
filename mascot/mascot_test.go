@@ -3,7 +3,7 @@ package mascot_test
 import (
 	"testing"
 
-	"example.com/go-demo-1/mascot"
+	"example.com/go-demo/mascot"
 )
 
 func TestMascot(t *testing.T) {
